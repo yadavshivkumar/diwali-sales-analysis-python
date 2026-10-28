@@ -111,9 +111,6 @@ These findings may support customer segmentation, regional marketing, and furthe
 - Observed patterns do not establish causation.
 - Recommendations should be validated before business implementation.
 
-## Author
-
-Add your name here.
 
 ## Learning Outcomes
 
